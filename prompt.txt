@@ -1,0 +1,51 @@
+
+# **_JOB DESCRIPTION_**  
+   
+|                                  |                                   |  
+|----------------------------------|-----------------------------------|  
+| **JOB TITLE:** Applications Analyst | **DATE:** September 2022 |  
+| **DEPARTMENT:** Technology Services | **FLSA CLASSIFICATION:** Exempt|  
+| **REPORTS TO:** Enterprise Applications & Engineering Manager | **EEO CLASSIFICATION:** Professional |  
+   
+## **JOB SUMMARY**  
+   
+JOB SUMMARY keywords to use: ['Applications Analyst', 'product specialist', 'legal application set', 'user experience', 'end-user computing environment', 'subject matter expert', 'vendor applications']
+   
+## **ESSENTIAL DUTIES AND RESPONSIBILITIES**  
+   
+ESSENTIAL DUTIES AND RESPONSIBILITIES keywords to use: ['systems analysis', 'system requirements', 'researching technologies', 'advising users', 'project management', 'defining user experience', 'software upgrades', 'configuration management', 'test plans', 'regression testing', 'technology support', 'problem-resolution', 'process optimization', 'documentation', 'special projects']
+   
+## **OTHER DUTIES AND RESPONSIBILITIES**  
+   
+## **MINIMUM QUALIFICATIONS**  
+### Knowledge/Skills/Abilities:  
+Knowledge/Skills/Abilities keywords to use: ['Microsoft Office suite', 'software applications', 'legal applications', 'interpersonal skills', 'troubleshooting knowledge', 'organization skills']
+   
+### Education:  
+Education keywords to use: ['Bachelor’s degree', 'relevant equivalent experience', 'vendor certifications']
+   
+### Experience:  
+Experience keywords to use: ['supporting and managing legal applications', 'designing application configurations', 'supporting documentation', 'supporting internal escalation', 'troubleshooting applications']
+   
+## **WORKING CONDITIONS**  
+   
+N/A = 0-10%, Occasionally = 11-33%, Frequently = 34 - 66%, Constantly = 67 - 100%  
+   
+| Requirement | Frequency |  
+|-------------|-----------|  
+| Travel |  |  
+| Sitting |  |  
+| Standing |  |  
+| Walking |  |  
+| Reading |  |  
+| Typing |  |  
+| Concentration |  |  
+| Oral and Written Communication |  |  
+| Horizontal Reaching |  |  
+| Vertical Reaching |  |  
+| Twisting |  |  
+| Repetitive Arm/Hand/Finger Movements |  |  
+| Weight |  |  
+
+WORKING CONDITIONS keywords to use: ['Sitting', 'Standing', 'Walking', 'Reading', 'Typing', 'Concentration', 'Oral and Written Communication', 'Horizontal Reaching', 'Vertical Reaching', 'Twisting', 'Repetitive Arm/Hand/Finger Movements', 'Weight']
+
